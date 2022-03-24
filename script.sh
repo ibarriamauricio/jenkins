@@ -6,3 +6,4 @@ NUM=$((FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "Line added to check if git webhook work"
 echo "test"
+echo "test2"
