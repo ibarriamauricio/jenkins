@@ -4,3 +4,4 @@ echo "That is running in a build step"
 echo "This is the first parameter $PASSED"
 NUM=$((FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
+echo "Line added to check if git webhook works"
